@@ -1,4 +1,4 @@
-#  Secret Friend Challenge
+#  Desafio del amigo secreto
 
 Una aplicación web para organizar sorteos de "Amigo Secreto" de forma divertida y sencilla.
 
