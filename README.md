@@ -20,7 +20,8 @@ Este proyecto permite agregar nombres de participantes y realizar un sorteo alea
 - CSS3
 - JavaScript (Vanilla)
 
-##  Cómo usarlo
+##  Cómo usarlo 
 
 1. Clona el repositorio:
    ```bash
+ git clone https://github.com/Ponce1271/challenge-amigo-secreto.git
