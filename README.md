@@ -21,4 +21,4 @@ Este proyecto permite agregar nombres de participantes y realizar un sorteo alea
 - Git / Github
 
 ##  Cómo Ingresar 
-https://github.com/Ponce1271/challenge-amigo-secreto/tree/main
+https://github.com/Ponce1271/challenge-amigo-secreto
