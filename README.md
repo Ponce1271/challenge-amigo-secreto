@@ -10,8 +10,7 @@ Este proyecto permite agregar nombres de participantes y realizar un sorteo alea
 
 -  Agregar participantes
 -  Sorteo aleatorio sin repeticiones
--  Validación de nombres duplicados y campos vacíos
--  Reinicio automático del sorteo
+-  Validación de nombres duplicados
 -  Interfaz intuitiva y amigable
 
 ##  Tecnologías usadas
