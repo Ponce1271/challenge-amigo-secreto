@@ -24,9 +24,9 @@ function mostrarListaAmigos() {
     
     lista.innerHTML = "";    
     for (let i = 0; i < amigos.length; i++) {
-        let nuevoamigo = document.createElement("li"); 
-        nuevoamigo.textContent = amigos[i-1]; 
-        lista.appendChild(nuevoamigo); 
+        let nuevoAmigo = document.createElement("li"); 
+        nuevoAmigo.textContent = amigos[i]; 
+        lista.appendChild(nuevoAmigo); 
     }
 }
 
@@ -44,3 +44,4 @@ function sortearAmigo() {
    
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = `<li>El amigo secreto es: ${amigoSorteado}</li>`;
+}
