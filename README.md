@@ -21,6 +21,5 @@ Este proyecto permite agregar nombres de participantes y realizar un sorteo alea
 - Git / Github
 
 ##  Cómo usarlo 
-
-1. Clona el repositorio:
+Clona el repositorio:
    Usar Git Bash, escribir git clone https://github.com/Ponce1271/challenge-amigo-secreto.git
